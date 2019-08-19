@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: New Beginnings
 author: Chris
 layout: post
 ---

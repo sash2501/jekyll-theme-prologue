@@ -3,12 +3,12 @@ title: amfoss-tasks
 author: Sassy
 layout: post
 ---
-Lorem ipsum dolor sit amet, iusto ridens dictas te sed. Error latine vis et. Ex cum munere definitiones, ne quas debitis contentiones cum, epicurei constituam ea sit. Dicant aeterno dolorum ex eum, qui everti iisque consectetuer ea! Duo in falli similique, nec tritani accusam te. Enim sapientem intellegat te pri, nam at atqui accumsan vituperata.
+Every semester the amfoss club of Amrita Vishwa Vidyapeetham, Amritapuri takes in new members. However, not everyone gets to become a member of the prestigious club. Only those who are willing to learn new stuff and work accorrdingly are made members of the club.
 
-Sed id graeci feugiat. No meis summo consequat vel! Albucius phaedrum omittantur eos an, ex sit lorem possim perpetua. Usu et sumo posidonium, ut qui dicat sapientem tincidunt, et has consul oporteat torquatos! In qui fabulas facilisis, justo nonumes an his, quo vidisse nusquam facilisis no. Eam iriure mediocrem suavitate an?
+So, how do they achieve this impossible task of selecting members? They do that by giving  a set of tasks to the aspirants.  
 
-Quo te solum malorum prompta, porro oblique senserit cum et! Pro wisi cetero periculis ei, nam ullum dicit accusam ne, ad quo apeirian principes dissentiunt. An mea mucius vocent iisque? Vel eu altera consetetur, clita perfecto mea ad. Eos in vero ullum regione, ei veniam disputando pro, nam et iuvaret detracto voluptua.
+And like every aspiratn, I ttoo looked forward to joining the club a month ago. However, when I saw the set of tasks that we were given, I thought that doing these tasks parallelly with doing assignment that I was given because of my course will be next to impossible.
 
-Ad tritani deleniti sit, ne per ubique habemus singulis. Pro at integre alienum mediocritatem, mea ad libris adipisci necessitatibus, nostro constituam sit te. Recusabo oportere et mea, case minimum deleniti no quo, deseruisse conclusionemque vis te. Nam ex iudicabit constituam accommodare, dicam singulis ex eos! Eu mea viderer ceteros repudiandae, id erat voluptatum mea, ut consul omittam convenire quo. Id justo ipsum mei, modus contentiones per et! At mel omnium lucilius instructior, vel quando graeco in, eos docendi periculis eloquentiam ut.
+Having learnt basic C++ coding in my high school, I was afraid that I wouldn't be abe to do the tasks that used languages like rust, python and javascript. However, I didn't give up hope and started searching the all knowing google for some help. Google, as always didn't disappoint and sooner rather that later I had drawn up enough courage to start solving the tasks.
 
-Eam habemus aliquando ut. Id idque virtute antiopam duo, et idque falli incorrupte eos, in sea omnium instructior. Mei ex nostrud moderatius cotidieque, cu sea partiendo euripidis, eam no tollit doming! Has ne facilisi vulputate, aliquando disputationi mel eu. Ex pri diceret delectus intellegam, regione definiebas pro ex.
+That was a month ago, and now I can only say that, indeed these tasks are really helpful for a person to know that coding is really for them or not:)

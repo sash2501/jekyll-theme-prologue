@@ -27,10 +27,10 @@ Unfortunatly, even after trying this task fo more a week, I havent fugured out h
 I was hesitant to even try this task and rust was total stranger to me initially. However I read about regex, cargo files, how to enter 
 a string and then compare with a standard format.
 
-<b>Task 8 - Captcha Breaking </b>
+<b>Task 8 - Captcha Breaking </b><br>
 I first installed pytesseract through terminal. However, the code I wrote didn't fetch the pytesseract package. So, then I installed psytesseract OCR.exe and used eval() function to finish this task. 
 
-<b>Task 9 - Creating a simple website</b>
+<b>Task 9 - Creating a simple website</b><br>
 I referred youtube videos and websites to know the basic html coding required for this task. However, these 2 websites are just me experimenting with html and css.
 
 <b>Task 10 - CS50</b><br>

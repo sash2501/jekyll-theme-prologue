@@ -1,5 +1,5 @@
 ---
-title: Third Post
+title: Another Chance
 author: Sassy
 layout: post
 icon: fa-lightbulb

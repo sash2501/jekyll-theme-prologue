@@ -17,7 +17,6 @@ Followed the instructions at  <a href="https://github.com/amfoss/star-me">This P
 
 <b>Task 2 - Programming </b>
 Having learnt basic C++ in my high school, I attempted a few of the given hackerRank and codeforces challenges.
-You can see the codes <a href ="">here</a>
 <span class="image right"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="" /></span>
 
 

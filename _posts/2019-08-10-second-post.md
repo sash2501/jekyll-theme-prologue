@@ -9,7 +9,7 @@ Given below are the details of the amfoss-tasks that I attempted in the past mon
 <b>Task 0 - Installing Linux Ubuntu</b>
 
 This was, I think, the most risky task that I attempted. I already had a Windows setup and was quite afraid to even try dual booting in case I lose all my files. However, after delaying for weeks I installed Ubuntu. This was done by first freeing up space and then partitioning it into root,home,boot and swap .A pendrive which was made bootable with the help of roofus, was used.
-<b>Blockers:</b> When I first tried installing Ubuntu, the touchpad wasn't working. So I installed it using usb mouse and then updated the software and installed drivers for the same.
+<b>Blockers:</b>  When I first tried installing Ubuntu, the touchpad wasn't working. So I installed it using usb mouse and then updated the software and installed drivers for the same.
 
 <b>Task 1: starring all amfoss repositories</b>
 Followed the instructions at  <a href="https://github.com/amfoss/star-me">This Page</a>
@@ -22,23 +22,21 @@ You can see the codes <a href ="">here</a>
 
 
 
-Task 3: Google Scraping
+<b>Task 3: Google Scraping</b>
 Unfortunatly, even after trying this task fo more a week, I havent fugured out how to do this task for google page. When I tried to scrape a random website, I was succesful, but not for google webpage.
 
-Task 7 Rusted Email<br>
+<b>Task 7 Rusted Email</b><br>
 I was hesitant to even try this task and rust was total stranger to me initially. However I read about regex, cargo files, how to enter 
 a string and then compare with a standard format.
 
-Task 8 - Captcha Breaking - 
+<b>Task 8 - Captcha Breaking </b>
 I first installed pytesseract through terminal. However, the code I wrote didn't fetch the pytesseract package. So, then I installed psytesseract OCR.exe and used eval() function to finish this task. 
 
-Task 9 - Creating a simple website
+<b>Task 9 - Creating a simple website</b>
 I referred youtube videos and websites to know the basic html coding required for this task. However, these 2 websites are just me experimenting with html and css.
 
-Task 10 - CS50
+<b>Task 10 - CS50</b>
 CS50 is a course that helps beginners like me to start coding without any fear. I watched the videos and attempted the basic tasks like making code with scratch.(I didn't do much for this task, as the teachers were loading us with assignments and I didn't get free time)
-
-Task
 
 <div class="table-wrapper">
   <table>
@@ -89,7 +87,7 @@ Task
     <tfoot>
       <tr>
         <td colspan="2"></td>
-        <td>100.00</td>
+        <td></td>
       </tr>
     </tfoot>
   </table>
